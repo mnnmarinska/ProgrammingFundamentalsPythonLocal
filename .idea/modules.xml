@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Game-Rock-Paper_Scissors/.idea/Game-Rock-Paper_Scissors.iml" filepath="$PROJECT_DIR$/../Game-Rock-Paper_Scissors/.idea/Game-Rock-Paper_Scissors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ProgrammingFundamentalsPythonLocal.iml" filepath="$PROJECT_DIR$/.idea/ProgrammingFundamentalsPythonLocal.iml" />
+    </modules>
+  </component>
+</project>
